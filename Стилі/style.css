@@ -1,0 +1,48 @@
+.red {
+
+color: red;
+background-color: seagreen ;
+
+}
+
+body {
+
+background-color: steelblue;
+
+
+}
+
+details {
+
+background-color:teal ;
+
+}
+img {
+
+justify-content: center;
+align-items: center;
+margin: 0px  ;
+
+}
+
+p {
+
+color: yellow;
+background-color:royalblue ;
+
+
+}
+
+
+iframe{
+
+justify-content: center;
+align-items: center;
+}
+
+a {
+
+    background-color: rgb(255, 0, 0);
+color: rgb(28, 236, 0);
+
+}
